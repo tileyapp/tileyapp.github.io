@@ -1,0 +1,159 @@
+Privacy Policy
+Last updated: 12 October 2024
+
+We care about your privacy and your right to keep control over your personal data. Therefore, every time we deal with your personal data, we do so in accordance with the Regulation 2016/679 of 27 April 2016
+on the protection of natural persons with regard to the processing of personal data and on the free
+movement of such data (General Data Protection Regulation, hereafter "GDPR"). This Privacy Policy sets out which measures are taken to protect your privacy when using our App, and what rights you have in this respect as a user.
+
+You are invited to read this Privacy Policy carefully and familiarise yourself with its contents. We ask that you read the Privacy Policy from time to time to familiarise yourself with possible updates. 
+
+1. Objective
+
+This Privacy Policy for Tiley (hereafter "we", "us, "our", the "App") describes what personal data we might collect when you use our App, how and why we might process your personal data, and which rights you have.
+
+The main reason why we process personal data is for your gaming experience and for advertisement purposes. We do our best to limit the amount of data we collect to what is strictly necessary.
+
+
+2. Processing of Personal Data
+
+2.1. We automatically collect certain personal data when you download and use our App, in particular:
+
+- Device and location data:
+
+When you download and use our App, we automatically collect information on the type of device you use, the operating system, the resolution, the application version, mobile device identifiers (such as your device ID or advertising ID), your language, time zone and IP address. 
+
+When you download and use our App, we automatically detect your general location, namely country and state, through your IP address.
+
+- Usage data:
+
+We collect information automatically about your activity on our App, such as your in-app purchase history and data generated when you use our Appp (for example your game progress, achievements, high scores and other metrics).
+
+When you purchase the "remove ads" in-app purchase in Tiley, advertisements will no longer appear (a restart of the App may be required). Tiley does not ask for your payment information, and you will be redirected to the payment platform associated with your operating system (Google Play on Android/App Store on iOS). For more information on the data they collect, please consult their policies. Tiley only collects and stores the information that remembers whether you purchased the "remove ads" or not.
+
+2.2. We and our third party advertising networks and their partners may use cookies and similar technologies to collect the above categories of data. More information on the use of cookies on our App can be found in our Cookie Policy. Please note that our partners' use of cookies is subject to their own policies and not to this Policy. To refuse cookies or request their deletion as well as obtain the list of partners, please see the Cookie Policy.
+
+2.3. In case you contact us via e-mail, we may collect personal data such as your name, first name and e-mail address.
+
+2.4. We do not process any sensitive information or special categories of personal data. 
+
+
+3. Purpose of processing and legal basis for processing
+
+3.1. The above-mentioned data are processed for the following purposes:
+
+- To provide and maintain our App, recognise you when you return to our App, and perform essential business operation.
+
+- To administer and protect our App (this may include troubleshooting, data analysis, testing, support, fraud, reporting and hosting of data). 
+
+- To serve personalised advertisements in our App using third-party advertising networks. 
+
+3.2. Your data are processed on the following bases, in accordance with the GDPR:
+
+- Consent, which is asked for so that third-party advertising networks can provide a personalised advertisement experience. You can withdraw your consent at any time. For more information, see Article 6.2.
+
+- Legitimate interest, such as providing our App experience, diagnosing problems, preventing fraudulent activities.
+
+- Legal obligations, such as to cooperate with a law enforcement body or a regulatory agency, or exercise or defend our legal rights.
+
+
+4. Sharing of data and recipients of personal data
+
+We do not sell personal data from our users. We may share data according to the following principles. 
+
+4.2. Advertising
+For personalised advertising, the advertising networks and their partners that are listed in APPENDIX A, and would like your consent, if you reside in EEA, the UK, Norway, Switzerland or Brazil, unless they have another legal basis for processing, may collect or receive device information from our App that include personal and non-personal information, such as advertising (or ad) identifiers, IP address, or other information regarding the delivery of advertisements and your interaction with them, inventory of installed apps and/or other tracking technologies to provide measurement services, personalisation, ad selection, content selection, delivery, reporting and optimise targeted ads. Ad identifiers are non-permanent device identifiers such as the Android advertising ID and/or Apple's ID for advertising (IDFA). For more information on how to opt-out go to Article 6.2. of this Privacy Policy. Please note that the adveritsing networks listed in APPENDIX A are independent data controllers in respect of your personal data and you can learn more about how each handles your data by accessing their respective privacy notices using the hyperlinks below. For more information on how Google advertising works, please visit their website https://policies.google.com/technologies/partner-sites?hl=en-US
+
+For certain USA residents, we may also “share” your personal data, as defined under their respective State’s privacy laws, with advertising partners who distribute advertising in our Services. For further information on the advertising networks which may receive this information, go to APPENDIX B (applicable     to California, CPRA; Colorado, CPA; Connecticut, CTDPA; Florida, FDBR (settings only); Montana, MCDPA; Oregon, OCPA; Texas, TDPSA; Utah, UCPA; Virginia, VCDPA).  For more information on withdrawing consent and opt-out from personalised ads, please see Article 6.2. of this Policy.
+
+We may receive information about you from our third party service providers, who collect this information through our App in accordance with their privacy policies. Our third party service providers can be found in APPENDIX A and APPENDIX B.
+ 
+4.2. Cross-border data transfers         
+Sharing of information sometimes involves cross-border data transfers, including transfers outside of the EEA in accordance with the law. We only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure that their level of data protection is in agreement with this privacy policy and applicable law, under standard contractual provisions which have been deemed by the European Commission to provide sufficient safeguards for personal data.      
+
+4.3. Required by law or legal proceedings
+We may share data if it is required by law or in connection with legal proceedings.
+
+
+5. Retention period
+
+We will retain your data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, provide our Services and enforce our legal agreements and policies.
+
+
+6. Rights and how to exercise them
+
+6.1. In accordance with the GDPR, you have the following rights, within the limits and according to the conditions of the GDPR:
+
+- Right to information: you have the right to be informed about how Tiley processes your data. We respect this right by being transparent and providing you with information in this Policy.
+
+- Right of access: you have the right to obtain a confirmation as to whether or not Tiley processes your data, you also have the right to obtain access to the data by requesting a copy showing which data Tiley has about you.
+
+- Right to rectification: you have the right to obtain the rectification of inaccurate personal data that concerns you.
+
+- Right of erasure: you have the right to obtain the erasure of personal data that concerns you.
+
+- Right to restriction of processing: you have the right to obtain restriction of processing.
+
+- Right to object: you have the right to object the processing of your data.
+
+- Right to data portability:  you have the right to receive the personal data concerning you in a structured, commonly used and machine-readable format, as well as the right to transmit those data to another controller without hindrance from Tiely.
+
+You can exercise your rights by contacting us via email at dejan.nm.ilic.dev@gmail.com.
+
+Please note that Tiley may ask for additional information in order to identify you to ensure that data is disclosed to the correct individual.
+
+6.2. To show you personalised advertisements in our App we use third-party advertising networks and their partners, including those that need your consent and are listed in APPENDIX A and APPENDIX B, to deliver advertisements that are tailored to you based on a determination of your characteristics or interests. To do so they use personal and non-personal information such as advertising identifiers i.e. the Android advertising ID and/or Apple's ID for advertising (IDFA), device data and/or other tracking technologies to enable and optimise this advertising procedure.
+
+You can opt-out from personalised advertisement experience, at any time by checking the Privacy Setting tab in our App or under the privacy settings of your iOS or Android device.
+
+Method 1 (depending on your local privacy laws) - App Settings:
+
+Open app Settings
+Select Privacy Preferences
+Click on “Withdraw Consent to All", and then click Confirm Choices (Android) or Save & Exit (iOS)
+
+Method 2 - Device Settings:
+
+For iOS 14 and later:
+Open device Settings
+Select Privacy (& Security)
+Select Tracking and disable "Allow Apps to Request to Track" or disable permissions for specific app
+
+For iOS 13 and older:
+Open device Settings
+Select Privacy
+Select Advertising and enable "Limit Ad Tracking"
+
+For Android:
+
+Open device Settings
+Select Google
+Select Ads and enable "Opt out of Ads Personalisation" or "Delete advertising ID" accordingly.
+
+When you choose to opt-out, advertising networks will consider this choice as a withdrawal of consent to personalised advertisement experience and they will show contextual advertisements and not personalised advertisements based on your interests. Please note that, irrespective of your choice and/or your device settings, you will continue to see non-customised advertising (e.g. “contextual” advertising) and you may continue to receive personalised ads from our third-party ad networks that obtain your consent on other apps and/or websites. 
+
+
+7. Data Protection Authority
+
+For any additional information or for any complaint relating to the processing of your personal data, you may apply to the Data Protection Authority (Rue de la Presse 35, 1000 Brussels) via https://www.dataprotectionauthority.be/citizen/actions.
+
+
+8. Communication of personal data breach
+
+In the case a personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, we shall communicate the personal data breach to the data subject without undue delay.
+
+
+9. Children 
+
+Tiley does not knowingly solicit personal data from children or send them requests for personal data. 
+
+Although visitors of all ages may navigate through our App, we do not intentionally collect personal data from persons under the age of sixteen. If following a notification by a parent or guardian, or discovery by other means, we become aware that a minor has improperly used our App by using false information, we will delete the child's personal data from our records.
+
+
+10. Questions 
+
+In case you have any questions or concerns regarding our Privacy Policy, please contact us at dejan.nm.ilic.dev@gmail.com.
+
+
+11. Controller
+
+The controller of your personal data is Dejan Ilic, who can be contacted via dejan.nm.ilic.dev@gmail.com.

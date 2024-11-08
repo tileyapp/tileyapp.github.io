@@ -1,0 +1,286 @@
+List of third-party advertising networks that apply to personalised and non-personalised ads:
+    Google
+    1trn
+    4Info, Inc.
+    Aarki
+    Acuityads
+    Ad2iction
+    Adblade
+    AdChina
+    AdColony
+    AdElement
+    Adello
+    Adelphic Inc.
+    AdFalcon
+    Adform
+    AdGear
+    adhood
+    Adikteev
+    AdKernel
+    adlocal.net
+    AdMaxim
+    ADMICRO
+    Admixer
+    Adobe Advertising Cloud
+    AdotMob
+    AdPlay
+    Adtelligent Inc.
+    AdTheorent, Inc.
+    advanced STORE GmbH
+    Advenue
+    AerServ
+    Affle India
+    AGrant CN
+    AKTYVUS SEKTORIUS
+    Amazon
+    Amobee
+    AppGrowth Inc.
+    Appier
+    AppLovin Corp.
+    AppNexus (Xandr) Inc
+    Appreciate
+    Arbigo Inc.
+    Arpeely
+    Art of Click
+    Artsai
+    Astromotion
+    Audiencevalue
+    Axonix
+    Beeswax
+    Beijing PageChoice Network Technology co., Ltd.
+    Bidease
+    BidMotion
+    Bidtellect
+    Bidtheatre
+    Bigabid
+    Blismedia
+    Blue
+    Boston Consulting Group
+    Bridgewell
+    Bucksense
+    Cadreon Pty Ltd d/b/a Orion Trading
+    CapitalData
+    Cauly
+    CDK Global
+    Centro
+    Chalk Digital
+    Chartboost
+    Cheetah Mobile
+    Chocolate Platform
+    Cinarra
+    Clickagy
+    ClickCertain
+    Cloud Media
+    Cloud Technologies
+    Cognitiv Corp
+    Cogo Labs
+    Crimtan
+    Criteo
+    CrossInstall, Inc
+    CyberAgent
+    Dable
+    Dataseat
+    DataXu
+    DeepIntent
+    deqwas
+    Dianping
+    Digital Hub Hannover GmbH
+    Discover-Tech LTD
+    Dochase
+    Domob
+    DynAd
+    DYNADMIC
+    EASYmedia
+    EchoSearch
+    Emar Ebox
+    Emerse
+    emetriq
+    ENVISIONX LTD
+    Epsilon
+    Essens
+    Exponential
+    Eyereturn Marketing
+    fluct
+    Fractional Media
+    FreakOut
+    FUSIO BY S4M
+    GDM Services, Inc d/b/a Fiksu DSP
+    Geniee,Inc
+    GetIntent
+    GO.PL
+    Go2mobi
+    GroovinAds
+    GroundhogTech
+    GroundTruth
+    Guangzhou Shunfei Infomation Technology Corporatio
+    Gunosy Inc.
+    HockeyCurve
+    Housing.com
+    HQ GmbH
+    hybrid.ai
+    i-mobile
+    iClick
+    IGAWorks
+    Ignition One
+    Improve Digital
+    Index Exchange
+    InMobi
+    Inspiritum Ltd.
+    Integral Marketing
+    iPinYou
+    IPONWEB
+    IQM
+    Jampp
+    Kadam
+    Kayzen
+    KCCS
+    Kika Tech
+    Kiosked
+    Knorex
+    KPI Solutions
+    Kwanza DSP
+    LifeStreet
+    Liftoff
+    LinkedIn
+    LiquidM
+    LivelyImpact
+    LKQD
+    Localsensor
+    LoopMe
+    LotLinx®
+    Maelico LTD
+    Magnetic
+    MainADV
+    Manage.com
+    Maverick
+    MaxPoint Interactive
+    Meazy
+    Media Force
+    Media.net
+    MediaMath
+    MediaPal
+    Mediarithmics
+    mediasmart
+    Meta
+    Meteora
+    MGID Inc.
+    MicroAd
+    Mobfox
+    Mobitrans
+    Mobpro
+    MOBSUCCESS
+    Mobvista/Mintegral
+    Moloco Ads
+    Native Touch
+    Net Info
+    Next Performance
+    NextRoll, Inc.
+    NTT DOCOMO
+    NUROFY AS
+    OneDash
+    OneTag
+    OpenX Technologies
+    Opt Out Advertising
+    Outbrain Inc.
+    OwnerIQ Inc.
+    Pelmorex Corp
+    Perfect Audience
+    PERMODO
+    Persona.ly
+    Pi-rate / pubintl
+    Platform161
+    PlatformOne
+    PocketMath
+    PowerLinks Media Ltd.
+    ProData Media
+    PubMatic
+    PulsePoint
+    Qinggu LLC
+    Quantcast
+    Rakuten Marketing
+    Read Peak
+    Recruit JP
+    Remerge
+    Rontar
+    RTB Baltic
+    RTB House
+    RTBiQ Inc.
+    Rubicon Project
+    ShareThis
+    Sharethrough, Inc.
+    Sift Media
+    Simplaex GmBH
+    Simpli.fi
+    Skoft
+    Smaato
+    Smadex
+    Smart
+    Smart.bid ltd
+    Smartology
+    SMARTSTREAM
+    SMN Corporation
+    Snap Inc.
+    Snapupp Technologies SL
+    Sociomantic
+    Solocal
+    Sonobi, Inc
+    Sovrn
+    Splicky
+    Spotad
+    SpotX
+    StackAdapt
+    Storygize LLC
+    STRÖER SSP GmbH
+    SundaySky
+    TabMo
+    Taboola
+    Taobao
+    Tapjoy
+    Tapklik
+    TAPTAP
+    TEEMO
+    Telecoming
+    TenMax
+    The Trade Desk
+    TorchAD
+    Touch Ads
+    Trafmag
+    travel audience – An Amadeus Company
+    Tremor Video DSP
+    TripleLift
+    True Wave Technologies Limited
+    Twinpine
+    Ubex DSP
+    Ubimo
+    UNICORN
+    Unister
+    United (Bypass)
+    UnrulyX
+    usemax (Emego GmbH)
+    Vertoz
+    VideoAmp
+    Vidstart LTD
+    VIP
+    Virtual Minds
+    Vpon
+    VRTCAL
+    WaardeX
+    Way2traffic
+    Webmoblink Inc.
+    Wider Planet
+    Wisemedia
+    Wish
+    Yandex
+    YieldMo
+    Yahoo!
+    Zamplus
+    ZAPR
+    Zebestof
+    Zeta Global
+    Zucks
+    ZypMedia
+    인라이플(Enliple)
+    世纪富轩科技发展（北京）有限公司
+    北京泛为信息科技有限公司
+    株式会社VRize
+

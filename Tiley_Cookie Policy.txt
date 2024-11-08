@@ -1,0 +1,63 @@
+Cookie Policy 
+Last updated: 12 October 2024
+
+This Cookie Policy applies to Tiley (hereafter "we", "us", "our", the "App"), and explains what cookies are, how we and third-party advertisers use cookies on the App, your choices regarding cookies and further information about cookies.
+
+
+What are cookies?
+
+Cookies are small data files placed on your device when using the App. Cookies are used to store information about you, your preferences and/or your device. The information does not usually identify you directly, but it can give you a more personalised experience. For instance, a cookie remembers your game progress when you close the App and return afterwards. 
+
+Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your mobile device when you close the App, while session cookies are deleted as soon as you close the App.
+
+
+Types of cookies that we use
+
+Strictly necessary cookies: these cookies are essential to enable you to use our App. Without these cookies, the App cannot function. These cookies cannot be switched off. They include:
+- Storage of your current game state so you can return and resume gameplay at any time.
+- Language of the App, which is determined upon start-up of the App, based on the language of your host operating system.
+- Information on whether you have access to exclusive features ("remove ads" feature).
+- Game preferences (colors of the tiles, sound volume, etc.).
+
+
+Types of third-party cookies that may be used
+
+Some of our advertising partners may use cookies and web beacons on our App to measure the effectiveness of their advertisements and/or to personalise the advertising content that you see. Our advertising partners include AdMob, provided by Google, Inc.
+
+
+Third-party cookies may be used on the App for the following purposes:
+
+1. Functional cookies: Cookies used for functionality allow users to interact with a service or site to access features that are fundamental to that service. Things considered fundamental to the service include product optimisations that help maintain and improve a service.
+
+2. Security cookies: Cookies used for security authenticate users, prevent fraud, and protect users as they interact with a service.
+
+3. Analytics cookies: Cookies used for analytics help collect data that allows services to understand how users interact with a particular service. These insights allow services both to improve content and to build better features that improve the user’s experience.
+
+4. Advertising cookies: These may be set through our App by our advertising partners to build a profile of your interests. This may include serving and rendering ads, personalising ads (depending on your consent), limiting the number of times an ad is shown to a user, muting ads you have chosen to stop seeing, and measuring the effectiveness of ads.
+
+For more information on how to opt-out from personalised advertisement, please visit our Privacy Policy.
+
+
+Consent and control
+
+Before cookies are placed on your device, you will be shown a prompt requesting your consent to set those cookies. You can give your consent by clicking "Accept All" or click "Customise Cookie Settings" for more options.
+
+If you wish to withdraw consent, you can use your App's "Privacy Preferences" functionality to remove all cookies and local storage related to this App from your device:
+
+Open app Settings
+Select Privacy Preferences
+Click on “Withdraw Consent to All", and then click Confirm Choices (Android) or Save & Exit (iOS)
+
+On your next visit, you will be asked for consent again and you may choose to accept or reject cookies.
+
+
+Changes to this Cookie Policy
+
+We may update this Cookie Policy from time to time to reflect, for example, changes to the cookies we use or for other operational, legal, or regulatory reasons. Please re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
+
+
+Contact us
+
+If you have any questions about our use of cookies, please contact us at dejan.nm.ilic.dev@gmail.com.
+
+
